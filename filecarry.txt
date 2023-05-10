@@ -1,0 +1,3 @@
+my code is in .js 
+and its executed in binary
+zaxx is plattoform
